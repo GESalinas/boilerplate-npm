@@ -1,7 +1,12 @@
 {
 	"name": "fcc-learn-npm-package-json",
 	"author": "Gabriel Salinas",
-  "description": "A project that shows how awesome I am!",
+	"description": "A project that shows how awesome I am!",
+	"keywords": [
+		"awesome",
+		"freecodecamp",
+		"project"
+	],
 	"dependencies": {
 		"express": "^4.14.0"
 	},
